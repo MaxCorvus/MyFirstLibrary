@@ -1,0 +1,19 @@
+{
+    "name": "max/test",
+    "description": "composerTest",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Max\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Max Corvus",
+            "email": "corvus.maks@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
